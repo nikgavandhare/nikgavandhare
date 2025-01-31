@@ -1,4 +1,4 @@
-# Welcome to Nik’s Tech World – where data comes to life! Dive into my journey of mastering data analysis and visualization, from Python to Power BI, and explore how I turn raw data into actionable insights.
+*  Welcome to Nik’s Tech World – where data comes to life! Dive into my journey of mastering data analysis and visualization, from Python to Power BI, and explore how I turn raw data into actionable insights.
 
 
 
