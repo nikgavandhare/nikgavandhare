@@ -17,12 +17,9 @@ Nikita Gaondhare : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-bl
 
 <h3 align="left">🎓 Licenses & Certifications 📜 ✔️</h3>
 
-### 1️⃣ Data Analytics Job Simulation - by Deloitte  
-![Data Analytics Job Simulation](https://github.com/nikgavandhare/nikgavandhare/blob/main/Deloitte_Data_Analyst.png?raw=true)
-
-### 2️⃣ Accenture North America - Data Analytics and Visualization Job Simulation  
-![Accenture Data Analytics](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/accenture-data-analytics.jpg)  
-[🔗 Show Credential](https://www.theforage.com/certificates/K5zko5chrB4Xfr8ac)  
+[Data Analytics Job Simulation - by Deloitte](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/deloitte-data-analytics.jpg)  
+[Accenture Data Analyst - by Accenture](https://github.com/nikgavandhare/nikgavandhare/blob/main/Accenture_Data_Analyst.png?raw=true)
+ 
 
 ### 3️⃣ Data Visualization with Power BI - by Great Learning  
 ![Power BI Certificate](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/data-visualization-powerbi.png)  
