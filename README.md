@@ -19,6 +19,9 @@ Nikita Gaondhare : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-bl
 
 [Data Analytics Job Simulation - by Deloitte](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/deloitte-data-analytics.jpg)  
 [Accenture Data Analyst - by Accenture](https://github.com/nikgavandhare/nikgavandhare/blob/main/Accenture_Data_Analyst.png?raw=true)
+
+[Accenture Data Analyst - by Accenture](https://github.com/nikgavandhare/nikgavandhare/blob/main/Accenture_Data_Analyst.png?raw=true)
+
  
 
 ### 3️⃣ Data Visualization with Power BI - by Great Learning  
