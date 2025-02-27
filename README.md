@@ -15,35 +15,17 @@ Nikita Gaondhare : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-bl
 📧 Nikita Gaondhare- gaondharenikita2506@gmail.com
 
 
-<h3 align="left">🎓 Licenses & Certifications 📜 ✔️</h3>
+<h3 align="left">🎓 Certifications 📜 ✔️</h3>
 
-[Data Analytics Job Simulation - by Deloitte](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/deloitte-data-analytics.jpg)  
-[Accenture Data Analyst - by Accenture](https://github.com/nikgavandhare/nikgavandhare/blob/main/Accenture_Data_Analyst.png?raw=true)
 
-[Accenture Data Analyst - by Accenture]([https://github.com/nikgavandhare/nikgavandhare/blob/main/Accenture_Data_Analyst.png?raw=true](https://github.com/nikgavandhare/nikgavandhare/blob/main/Accenture_Data_Analyst.png))
 
- 
+- [Accenture Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Accenture_Data_Analyst.png)
+- [Deloitte Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Deloitte_Data_Analyst.png)
+- [Docker Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Docker_Certificate.png)
+- [Python Certification](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Python.png)
+- [AI Dashboards Using Microsoft Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/AI%20Dashboards%20Using%20Microsoft%20Power%20BI.png)
+- [Data Visualization with Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Visualization%20with%20Power%20BI.png)
 
-### 3️⃣ Data Visualization with Power BI - by Great Learning  
-![Power BI Certificate](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/data-visualization-powerbi.png)  
-
-### 4️⃣ Python For Data Science - by Great Learning  
-![Python Data Science](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/python-for-data-science.jpg)  
-
-### 5️⃣ AI Dashboards using Microsoft Power BI - by Skill Nation  
-[📄 View Certification PDF](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/ai-dashboards-powerbi.pdf)  
-
-### 6️⃣ Ultimate Docker Fast-Track Beginner to Advanced - by Udemy  
-![Docker Certificate](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/docker-certificate.png)  
-[🔗 Show Credential](https://www.udemy.com/certificate/UC-91e42434-b2dc-457c-b81f-6320d956d75b/)  
-
-### 7️⃣ Android Automotive-Custom ROM-ASOP-Car Launcher-Kiosk - by Udemy  
-![Android Automotive](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/android-automotive.png)  
-[🔗 Show Credential](https://www.udemy.com/certificate/UC-Ocbc1515-0322-4532-9216-7be945be54c7/)  
-
-### 8️⃣ Android OS Internals/ ASOP In Depth - by Udemy  
-![Android OS Internals](https://raw.githubusercontent.com/your-username/your-repo/main/certificates/android-os-internals.png)  
-[🔗 Show Credential](https://www.udemy.com/certificate/UC-124212d2-1169-4dcc-8a26-8544bca22058/)
 
 ## 🚀 Languages and Tools:
 
