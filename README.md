@@ -20,10 +20,15 @@ Nikita Gaondhare : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-bl
 
 
 - [Accenture Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Accenture_Data_Analyst.png)
+  
 - [Deloitte Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Deloitte_Data_Analyst.png)
+  
 - [Docker Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Docker_Certificate.png)
+  
 - [Python Certification](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Python.png)
+  
 - [AI Dashboards Using Microsoft Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/AI%20Dashboards%20Using%20Microsoft%20Power%20BI.png)
+  
 - [Data Visualization with Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Visualization%20with%20Power%20BI.png)
 
 
