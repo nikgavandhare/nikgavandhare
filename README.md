@@ -3,9 +3,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
 <h3 align="center">A Passionate Data Analyst | Transforming Raw Data into Insights</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikgavandhare&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter"/>
-</p>
 
 ---
 
