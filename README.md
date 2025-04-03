@@ -58,6 +58,8 @@
 - [Data Visualization with Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Visualization%20with%20Power%20BI.png)
 - [Kaggle Pandas Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Nikita%20Tatyaso%20Gaondhare%20-%20Pandas.png)
 - [Data Analyst-Quantium](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Analytics%20-%20Quantium.png)
+- [Data Analyst Certification-By Oneroadmap](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Analyst%20Certification-Oneroadmap.png)
+
 
 
 ---
