@@ -61,7 +61,7 @@
 
 - 
 - [Pandas-Kaggle] (https://github.com/nikgavandhare/nikgavandhare/blob/main/Nikita%20Tatyaso%20Gaondhare%20-%20Pandas.png)
-- [Data Analyst-Quantium] (![Screenshot 2025-04-01 184731](https://github.com/user-attachments/assets/e3696442-c6a6-4f0d-8c42-361502b6cfe8)
+- [Data Analyst-Quantium](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Nikita%20Tatyaso%20Gaondhare%20-%20Pandas.png)
 
 
 ---
