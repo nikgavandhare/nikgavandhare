@@ -56,7 +56,7 @@
 - [Python Certification](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Python.png)
 - [AI Dashboards Using Microsoft Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/AI%20Dashboards%20Using%20Microsoft%20Power%20BI.png)
 - [Data Visualization with Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Visualization%20with%20Power%20BI.png)
-- [Kaggle Pandas Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Nikita Tatyaso Gaondhare-Pandas.png)
+- [Kaggle Pandas Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Nikita%20Tatyaso%20Gaondhare%20-%20Pandas.png)
 
 
 - 
