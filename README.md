@@ -1,77 +1,104 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
-<h3 align="center">A Passionate Data Analyst | Transforming Raw Data into Insights</h3>
+# Hi, I'm Nikita Gaondhare 👋
+
+### Computer Science Engineer | C/C++ | Python | SQL | Software Engineering | SAP ABAP Aspirant
+
+I'm a Computer Science graduate with professional experience at **KPIT Technologies** in a structured automotive software engineering environment.
+
+My technical foundation includes **C, C++, Python, SQL, and MySQL**, along with exposure to software development processes, requirements analysis, testing, validation, and cross-functional collaboration.
+
+I have worked on automotive software projects, including a **Software Defined Vehicle (SDV)** project, where I gained experience working with structured project data, requirements, testing, and validation activities.
+
+I am currently looking to build my expertise in **SAP ABAP** and move toward a career in SAP development by applying my existing programming and database fundamentals to enterprise software development.
 
 ---
 
-## 💡 About Me
+## 👩‍💻 About Me
 
-- 🔹 Passionate about **turning raw data into actionable insights**.
-- 🔹 Skilled in **data visualization, data cleaning, and statistical analysis**.
-- 🔹 Proficient in **SQL, Power BI, Excel, Python, and Tableau**.
-- 🔹 Strong analytical mindset with a focus on **solving real-world business problems**.
-
----
-
-## 📌 **Currently Working On:**
-
-- ✅ Enhancing **data storytelling** using Power BI & Tableau.
-- ✅ Building **interactive dashboards** for better decision-making.
-- ✅ Improving **data cleaning & transformation skills** in Excel & Python.
-- ✅ Mastering **advanced SQL queries** for data extraction & analysis.
+- 🎓 B.Tech in Computer Science Engineering
+- 💼 Professional experience at **KPIT Technologies**
+- 🚗 Experience in the automotive software domain
+- 🔧 Exposure to Software Defined Vehicle (SDV) projects
+- 🗄️ Working knowledge of SQL and MySQL
+- 💻 Programming foundation in C, C++, and Python
+- 🔄 Familiar with Git and GitHub
+- 🧪 Exposure to software testing and validation
+- 🎯 Currently focusing on **SAP ABAP and SAP development**
 
 ---
 
-## 🎯 **Looking to Collaborate On:**
+## 🛠️ Technical Skills
 
-- 📊 **Data analysis projects** focusing on **data cleaning, transformation, and visualization**.
-- 📈 **Building interactive dashboards** in Power BI & Tableau.
-- 📊 **Creating automated reports** for business intelligence.
-- 📑 **Developing machine learning models** using Python (Pandas, Scikit-learn).
+### Programming
+C • C++ • Python
 
----
+### Database
+SQL • MySQL
 
-## 📚 **Currently Learning:**
+### Software Engineering
+Software Development Lifecycle • Requirements Analysis • Testing & Validation • Data Handling
 
-- 📌 **Power Query & Advanced Excel** for data transformation.
-- 📌 **Pandas & NumPy** for data manipulation in Python.
-
----
-
-## 💬 **Ask Me About:**
-
-- 📌 Best practices in **data analysis & data cleaning**.
-- 📌 How to create **interactive dashboards & reports**.
-- 📌 Using **SQL & Python for data analytics**.
-- 📌 Automating **data reporting workflows**.
+### Tools
+Git • GitHub • VS Code • Eclipse IDE • MySQL Workbench • Excel
 
 ---
 
-## 🎓 Certifications 📜 ✔️
+## 🚀 Current Focus
 
-- [Accenture Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Accenture_Data_Analyst.png)
-- [Deloitte Data Analyst Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Deloitte_Data_Analyst.png)
-- [Docker Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Docker_Certificate.png)
-- [Python Certification](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Python.png)
-- [AI Dashboards Using Microsoft Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/AI%20Dashboards%20Using%20Microsoft%20Power%20BI.png)
-- [Data Visualization with Power BI](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Visualization%20with%20Power%20BI.png)
-- [Kaggle Pandas Certificate](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Nikita%20Tatyaso%20Gaondhare%20-%20Pandas.png)
-- [Data Analyst-Quantium](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Analytics%20-%20Quantium.png)
-- [Data Analyst Certification-By Oneroadmap](https://raw.githubusercontent.com/nikgavandhare/nikgavandhare/main/Data%20Analyst%20Certification-Oneroadmap.png)
+I am currently working toward building a strong foundation in **SAP ABAP** and enterprise software development.
 
+My current learning direction includes:
 
+- SAP ABAP fundamentals
+- ABAP programming concepts
+- Database and SQL fundamentals
+- Enterprise application development
+- Structured and maintainable programming
+- Understanding SAP development concepts
+
+> **Currently learning SAP ABAP — no professional ABAP experience claimed yet.**
 
 ---
 
+## 📂 Projects & Learning
 
+My repositories reflect my programming and technical learning journey.
 
-## 🔧 **Tools & Technologies**  
+I use GitHub to:
 
-<p align="left"> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/> </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png"/> </a>
+- Practice programming concepts
+- Strengthen database and SQL fundamentals
+- Explore software development concepts
+- Document technical learning and projects
+- Build a foundation for my transition into SAP development
+
+---
+
+## 🎯 Career Direction
+
+I'm currently working toward a career in **SAP ABAP development**.
+
+My existing technical foundation:
+
+**C/C++ → Python → SQL/MySQL → Software Engineering → SAP ABAP**
+
+I'm interested in combining programming and database fundamentals with enterprise software development through SAP.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Nikita Gaondhare](https://www.linkedin.com/in/nikita-gaondhare-9511242562/)
+- 📧 Email: gaondharenikita2506@gmail.com
+
+---
+
+### ⚡ Currently Learning
+
+**SAP ABAP | Enterprise Software Development | Database Fundamentals**
+</a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="50"/> </a>
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> </a>
